@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VmKrishna
-- 👀 C++ ,Javascript,CSS3,html5
+- 👀 Javascript,CSS3,html5
 - 🌱 
 - 📫 How to reach me twitter:https://twitter.com/Vijaymkrish,Linkedin:https://www.linkedin.com/in/vijayamuralikrishna-j-04bb16215/
 
