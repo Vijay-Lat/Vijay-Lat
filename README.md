@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VmKrishna
-- 👀 Javascript,CSS3,html5
+- 👀 Reactjs,Redux,Javascript,CSS3,html5,FireBase, graphQL,MongoDB,Netlify
 - 🌱 
 - 📫 How to reach me twitter:https://twitter.com/Vijaymkrish,Linkedin:https://www.linkedin.com/in/vijayamuralikrishna-j-04bb16215/
 
