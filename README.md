@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VmKrishna
+- 👋 Hi, I’m @VijayMK
 - A Programming Ninja ![image](https://user-images.githubusercontent.com/84265679/131968870-f11ce136-5eb3-4a3d-90b3-f851a944c41c.png)
 
 - 👀 Reactjs,Redux,Javascript,CSS3,html5,FireBase, graphQL,MongoDB,Netlify
