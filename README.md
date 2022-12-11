@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Vijayamuralikrishna
-- A Programming Ninja ![image](https://user-images.githubusercontent.com/84265679/131968870-f11ce136-5eb3-4a3d-90b3-f851a944c41c.png)
+- 👋 Hi, I’m  Vijayamuralikrishna.J
+- in love with Computer Science 
 
-- 👀 Reactjs,Redux,Javascript,CSS3,html5,FireBase, graphQL,MongoDB,Netlify,NodeJS
+- 👀 Reactjs,React-Native,Redux,NodeJS,Javascript,Typescript,CSS3,html5,FireBase, graphQL,MongoDB,Netlify,Heroku
 - 🌱 
 - 📫 How to reach me -Linkedin:https://www.linkedin.com/in/vijayamuralikrishna-j-04bb16215/
 
