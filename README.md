@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Vijayamuralikrishna.J
-- in love with Computer Science 
+- in LOVE with Computer Science 
 
 - 👀 Reactjs,React-Native,Redux,NodeJS,Javascript,Typescript,CSS3,html5,FireBase, graphQL,MongoDB,Netlify,Heroku
 - 🌱 
