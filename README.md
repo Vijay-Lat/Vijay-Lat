@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Vijayamuralikrishna.J
 - in LOVE with Computer Science 
 
-- 👀 Reactjs,React-Native,Redux,NodeJS,Javascript,Typescript,CSS3,html5,FireBase, graphQL,MongoDB,Netlify,Heroku
+- 👀 Reactjs,React-Native,Redux,NodeJS,Javascript,Typescript,CSS3,html5,FireBase,Java, SpringBoot,SQL,Netlify
 - 🌱 
 - 📫 How to reach me -Linkedin:https://www.linkedin.com/in/vijayamuralikrishna-j-04bb16215/
 
